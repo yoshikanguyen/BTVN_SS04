@@ -1,0 +1,25 @@
+/* SS04_BT05_Nguyễn Bình Lam Nghi */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+/* Phần 3: Hãy thay đổi màu sắc của văn bản sử dụng external-style */
+
+.external {
+    padding: 10px;
+}
+#text-red {
+    color: red;
+}
+
+#text-BG {
+    background-color: rgb(253, 240, 199);
+}
+
+.ex-bold {
+    font-weight: bold;
+    color: rgb(255, 174, 12);
+}

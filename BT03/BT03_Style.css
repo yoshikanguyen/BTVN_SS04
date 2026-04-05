@@ -1,0 +1,23 @@
+/* SS04_BT03_Nguyễn Bình Lam Nghi */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 30px;
+    width: 500px;
+}
+
+.label {
+    display: block;
+    font-weight: bold;
+}
+
+#note {
+    height: 100px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+/* SS04_BT02_Nguyễn Bình Lam Nghi */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+p {
+    text-align: center;
+    background-color: rgb(179, 179, 179);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+    margin-right: 10px;
+}
